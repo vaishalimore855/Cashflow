@@ -1,0 +1,342 @@
+{
+  "balance-sheet": [
+    {
+      "id": 1,
+      "lineItems": "Equity",
+      "alternateName": "typicode"
+    },
+    {
+      "id": 2,
+      "lineItems": "Equity share capital",
+      "alternateName": "Equity share capital"
+    },
+    {
+      "id": 3,
+      "lineItems": "Reserves and surplus",
+      "alternateName": "Reserves and surplus"
+    },
+    {
+      "id": 4,
+      "lineItems": "Non-Current Liabilities",
+      "alternateName": "Non-Current Liabilities"
+    },
+    {
+      "id": 5,
+      "lineItems": "Deferred tax liability` ",
+      "alternateName": "Deferred tax liability` "
+    },
+    {
+      "id": 6,
+      "lineItems": "Borrowings ",
+      "alternateName": "Borrowings "
+    },
+    {
+      "id": 7,
+      "lineItems": "Provisions",
+      "alternateName": "Provisions"
+    },
+    {
+      "id": 8,
+      "lineItems": "Lease Liabilities ",
+      "alternateName": "Lease Liabilities "
+    },
+    {
+      "id": 9,
+      "lineItems": "Current Liabilities",
+      "alternateName": "Current Liabilities"
+    },
+    {
+      "id": 10,
+      "lineItems": "Short term borrowings",
+      "alternateName": "Short term borrowings "
+    }
+  ],
+  "audit-logs": [
+    {
+      "id": 1,
+      "lineItem": "Depreciation and amortization exp...",
+      "userRole": "Preparer",
+      "userName": "Lorem ipsum dolo ipsum",
+      "userEmail": "xyz123mkilaot@abcd.com",
+      "sourceDocs": "Balance Sheet",
+      "action": "Add Line item",
+      "date": "2 May 2022, 10:"
+    },
+    {
+      "id": 2,
+      "lineItem": "Lorem ipsum dolor sit amet, cons......",
+      "userRole": "Reviewer",
+      "userName": "Lorem ipsum dolo ipsum",
+      "userEmail": "xyz123mkilaot@abcd.com",
+      "sourceDocs": "Income Statement",
+      "action": "Delete Line Item",
+      "date": "2 May 2022, 10:"
+    },
+    {
+      "id": 3,
+      "lineItem": "Non-cash employee share-based...",
+      "userRole": "Auditor",
+      "userName": "Lorem ipsum dolo ipsum",
+      "userEmail": "xyz123mkilaot@abcd.com",
+      "sourceDocs": "Notes to balance sheet",
+      "action": "Edit Line Item",
+      "date": "2 May 2022, 10:"
+    },
+    {
+      "id": 4,
+      "lineItem": "Provision for doubtful debts",
+      "userRole": "Preparer",
+      "userName": "Lorem ipsum dolo ipsum",
+      "userEmail": "xyz123mkilaot@abcd.com",
+      "sourceDocs": "Notes to income statement",
+      "action": "Manual data entry",
+      "date": "2 May 2022, 10:"
+    },
+    {
+      "id": 5,
+      "lineItem": "Provision for unbilled revenue",
+      "userRole": "Reviewe",
+      "userName": "Lorem ipsum dolo ipsum",
+      "userEmail": "xyz123mkilaot@abcd.com",
+      "sourceDocs": "Manual Entry 01",
+      "action": "Delete Line Item",
+      "date": "2 May 2022, 10:"
+    },
+    {
+      "id": 6,
+      "lineItem": "Provision for doubtful advances",
+      "userRole": "Auditor",
+      "userName": "Lorem ipsum dolo ipsum",
+      "userEmail": "xyz123mkilaot@abcd.com",
+      "sourceDocs": "Balance Sheet",
+      "action": "Edit Line Item",
+      "date": "2 May 2022, 10:"
+    },
+    {
+      "id": 7,
+      "lineItem": "Provision for diminution in investment",
+      "userRole": "Admin",
+      "userName": "Lorem ipsum dolo ipsum",
+      "userEmail": "xyz123mkilaot@abcd.com",
+      "sourceDocs": "Balance Sheet",
+      "action": "Manual data entry",
+      "date": "2 May 2022, 10:"
+    }
+  ],
+  "prepare-CFS": [
+    {
+      "id": "1",
+      "particularData": [
+        {
+          "id": "1",
+          "pData": "Cash flow from operating activities"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "particulars": "Profit before income tax from"
+    },
+    {
+      "id": "3",
+      "perticularList": [
+        {
+          "id": "1",
+          "p": "Continuing operations"
+        },
+        {
+          "id": "2",
+          "p": "Discontinued operations"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "particulars": "Profit before income tax including discontinued operations"
+    },
+    {
+      "id": "5",
+      "particulars": "Adjustments for",
+      "AdjustmetList": [
+        {
+          "id": "1",
+          "list": "Depreciation and amortisation expense "
+        },
+        {
+          "id": "2",
+          "list": "Impairment of goodwill and other non-current assets"
+        },
+        {
+          "id": "3",
+          "list": "Non-cash employee share-based payments"
+        },
+        {
+          "id": "4",
+          "list": "Provision for doubtful debts"
+        },
+        {
+          "id": "5",
+          "list": "Provision for unbilled revenue"
+        },
+        {
+          "id": "6",
+          "list": "Provision for doubtful advances"
+        },
+        {
+          "id": "7",
+          "list": "Provision for diminution in investment"
+        },
+        {
+          "id": "8",
+          "list": "Dividend income classified as investing cash flows"
+        },
+        {
+          "id": "9",
+          "list": "Interest income classified as investing cash flows"
+        },
+        {
+          "id": "10",
+          "list": "Interest income accreted on financial assets measured at amortised cost"
+        },
+        {
+          "id": "11",
+          "list": "Net gain on account of prepayment of loan by related parties classified as investing cash flow"
+        }
+      ],
+      "screen61": [
+        {
+          "rno": "1034560",
+          "crdate": "13th Jan 2023",
+          "duedate": "13th Feb 2023",
+          "cname": "Tata Communication",
+          "ctype": "Lorem Epsum",
+          "rep": "Shashank Malik",
+          "email": "m.shashank@xyz.com",
+          "reqtype": "Category 01",
+          "stat": "New"
+        },
+        {
+          "rno": "1034560",
+          "crdate": "13th Jan 2023",
+          "duedate": "13th Feb 2023",
+          "cname": "Tata Communication",
+          "ctype": "Lorem Epsum",
+          "rep": "Shashank Malik",
+          "email": "m.shashank@xyz.com",
+          "reqtype": "Category 01",
+          "stat": "In Progress"
+        },
+        {
+          "rno": "1034560",
+          "crdate": "13th Jan 2023",
+          "duedate": "13th Feb 2023",
+          "cname": "Tata Communication",
+          "ctype": "Lorem Epsum",
+          "rep": "Shashank Malik",
+          "email": "m.shashank@xyz.com",
+          "reqtype": "Category 01",
+          "stat": "Completed"
+        },
+        {
+          "rno": "1034560",
+          "crdate": "13th Jan 2023",
+          "duedate": "13th Feb 2023",
+          "cname": "Tata Communication",
+          "ctype": "Lorem Epsum",
+          "rep": "Shashank Malik",
+          "email": "m.shashank@xyz.com",
+          "reqtype": "Category 01",
+          "stat": "Rejected"
+        },
+        {
+          "rno": "1034560",
+          "crdate": "13th Jan 2023",
+          "duedate": "13th Feb 2023",
+          "cname": "Tata Communication",
+          "ctype": "Lorem Epsum",
+          "rep": "Shashank Malik",
+          "email": "m.shashank@xyz.com",
+          "reqtype": "Category 01",
+          "stat": "New"
+        },
+        {
+          "rno": "1034560",
+          "crdate": "13th Jan 2023",
+          "duedate": "13th Feb 2023",
+          "cname": "Tata Communication",
+          "ctype": "Lorem Epsum",
+          "rep": "Shashank Malik",
+          "email": "m.shashank@xyz.com",
+          "reqtype": "Category 01",
+          "stat": "In Progress"
+        },
+        {
+          "rno": "1034560",
+          "crdate": "13th Jan 2023",
+          "duedate": "13th Feb 2023",
+          "cname": "Tata Communication",
+          "ctype": "Lorem Epsum",
+          "rep": "Shashank Malik",
+          "email": "m.shashank@xyz.com",
+          "reqtype": "Category 01",
+          "stat": "Completed"
+        },
+        {
+          "rno": "1034560",
+          "crdate": "13th Jan 2023",
+          "duedate": "13th Feb 2023",
+          "cname": "Tata Communication",
+          "ctype": "Lorem Epsum",
+          "rep": "Shashank Malik",
+          "email": "m.shashank@xyz.com",
+          "reqtype": "Category 01",
+          "stat": "Rejected"
+        },
+        {
+          "rno": "1034560",
+          "crdate": "13th Jan 2023",
+          "duedate": "13th Feb 2023",
+          "cname": "Tata Communication",
+          "ctype": "Lorem Epsum",
+          "rep": "Shashank Malik",
+          "email": "m.shashank@xyz.com",
+          "reqtype": "Category 01",
+          "stat": "New"
+        },
+        {
+          "rno": "1034560",
+          "crdate": "13th Jan 2023",
+          "duedate": "13th Feb 2023",
+          "cname": "Tata Communication",
+          "ctype": "Lorem Epsum",
+          "rep": "Shashank Malik",
+          "email": "m.shashank@xyz.com",
+          "reqtype": "Category 01",
+          "stat": "In Progress"
+        },
+        {
+          "rno": "1034560",
+          "crdate": "13th Jan 2023",
+          "duedate": "13th Feb 2023",
+          "cname": "Tata Communication",
+          "ctype": "Lorem Epsum",
+          "rep": "Shashank Malik",
+          "email": "m.shashank@xyz.com",
+          "reqtype": "Category 01",
+          "stat": "Completed"
+        },
+        {
+          "rno": "1034560",
+          "crdate": "13th Jan 2023",
+          "duedate": "13th Feb 2023",
+          "cname": "Tata Communication",
+          "ctype": "Lorem Epsum",
+          "rep": "Shashank Malik",
+          "email": "m.shashank@xyz.com",
+          "reqtype": "Category 01",
+          "stat": "Rejected"
+        }
+      ]
+    }
+  ]
+}

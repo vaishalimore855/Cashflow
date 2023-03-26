@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+tbody, td, tfoot, th, thead, tr {
+    
+    border: 1px solid rgb(203, 200, 200) !important;
+    width:90px !important;
+}
+
+td{
+    width: 15% !important;
+    text-align: "right" !important;
+    
+}
+
+.css-1fau5hk-MuiTableCell-root-tablecell{
+    font-weight: bold !important;
+}

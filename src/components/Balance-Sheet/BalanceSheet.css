@@ -1,0 +1,11 @@
+.css-1yz59el-MuiTableCell-root.MuiTableCell-head {
+ width: 1% !important;
+}
+.css-111adb4-MuiTableCell-root.MuiTableCell-head {
+    background-color: #e4e4e4;
+    color: black;
+    width: 10px !important;
+}
+input, optgroup, select, textarea {
+    width: 50% !important;
+}

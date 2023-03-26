@@ -1,0 +1,18 @@
+.css-su5tcd-MuiButtonBase-root-MuiButton-root {
+    height: 25px !important;
+    padding: 6px 16px;
+    border-radius: 2px !important;
+   text-transform: capitalize !important;
+   color: black !important;
+   
+}
+.css-1v8txhd-MuiButtonBase-root-MuiButton-root {
+
+    border-radius:"none" !important;
+    
+}
+.css-1v8txhd-MuiButtonBase-root-MuiButton-root {
+ border-radius: 0px !important;
+text-transform: capitalize !important;
+    
+}

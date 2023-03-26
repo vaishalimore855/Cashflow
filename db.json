@@ -1,0 +1,129 @@
+{
+  "balance-sheet": [
+    {
+      "id": 1,
+      "lineItems": "Equity",
+      "alternateName": "typicode"
+    },
+    {
+      "id": 2,
+      "lineItems": "Equity share capital",
+      "alternateName": "Equity share capital"
+    },
+    {
+      "id": 3,
+      "lineItems": "Reserves and surplus",
+      "alternateName": "Reserves and surplus"
+    },
+    {
+      "id": 4,
+      "lineItems": "Non-Current Liabilities",
+      "alternateName": "Non-Current Liabilities"
+    },
+    {
+      "id": 5,
+      "lineItems": "Deferred tax liability` ",
+      "alternateName": "Deferred tax liability` "
+    },
+    {
+      "id": 6,
+      "lineItems": "Borrowings ",
+      "alternateName": "Borrowings "
+    },
+    {
+      "id": 7,
+      "lineItems": "Provisions",
+      "alternateName": "Provisions"
+    },
+    {
+      "id": 8,
+      "lineItems": "Lease Liabilities ",
+      "alternateName": "Lease Liabilities "
+    },
+    {
+      "id": 9,
+      "lineItems": "Current Liabilities",
+      "alternateName": "Current Liabilities"
+    },
+    {
+      "id": 10,
+      "lineItems": "Short term borrowings",
+      "alternateName": "Short term borrowings "
+    }
+  ],
+  "audit-logs": [
+    {
+      "sr.no":1, 
+      "lineItem":"Depreciation and amortization exp...",
+       "userRole": "Preparer",
+      "userName":"Lorem ipsum dolo ipsum",
+      "userEmail":"xyz123mkilaot@abcd.com",
+      "sourceDocs":"Balance Sheet",
+      "action":"Add Line item",
+      "date":"2 May 2022, 10:"
+    },
+    {
+      "sr.no":2, 
+      "lineItem":"Lorem ipsum dolor sit amet, cons......",
+       "userRole": "Reviewer",
+      "userName":"Lorem ipsum dolo ipsum",
+      "userEmail":"xyz123mkilaot@abcd.com",
+      "sourceDocs":"Income Statement",
+      "action":"Delete Line Item",
+      "date":"2 May 2022, 10:"
+    },
+    {
+      "sr.no":3, 
+      "lineItem":"Non-cash employee share-based...",
+       "userRole": "Auditor",
+      "userName":"Lorem ipsum dolo ipsum",
+      "userEmail":"xyz123mkilaot@abcd.com",
+      "sourceDocs":"Notes to balance sheet",
+      "action":"Edit Line Item",
+      "date":"2 May 2022, 10:"
+    },
+    {
+      "sr.no":4, 
+      "lineItem":"Provision for doubtful debts",
+       "userRole": "Preparer",
+      "userName":"Lorem ipsum dolo ipsum",
+      "userEmail":"xyz123mkilaot@abcd.com",
+      "sourceDocs":"Notes to income statement",
+      "action":"Manual data entry",
+      "date":"2 May 2022, 10:"
+    },
+    {
+      "sr.no":5, 
+      "lineItem":"Provision for unbilled revenue",
+       "userRole": "Reviewe",
+      "userName":"Lorem ipsum dolo ipsum",
+      "userEmail":"xyz123mkilaot@abcd.com",
+      "sourceDocs":"Manual Entry 01",
+      "action":"Delete Line Item",
+      "date":"2 May 2022, 10:"
+    },
+    {
+      "sr.no":6, 
+      "lineItem":"Provision for doubtful advances",
+       "userRole": "Auditor",
+      "userName":"Lorem ipsum dolo ipsum",
+      "userEmail":"xyz123mkilaot@abcd.com",
+      "sourceDocs":"Balance Sheet",
+      "action":"Edit Line Item",
+      "date":"2 May 2022, 10:"
+    },
+    {
+      "sr.no":7, 
+      "lineItem":"Provision for diminution in investment",
+       "userRole": "Admin",
+      "userName":"Lorem ipsum dolo ipsum",
+      "userEmail":"xyz123mkilaot@abcd.com",
+      "sourceDocs":"Balance Sheet",
+      "action":"Manual data entry",
+      "date":"2 May 2022, 10:"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
